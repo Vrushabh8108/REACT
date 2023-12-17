@@ -1,4 +1,9 @@
 npm init 
 npm install -D parcel
+npm install react
+npm install react-dom
+npx parcel Index.html
+
+
 
 ## Important About Pakage-Lock.json

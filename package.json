@@ -4,7 +4,10 @@
   "description": "Namaste React by Akshay Saini",
   "main": "App.js",
   "scripts": {
+    "start": "parcel Index.html",
+    "build":"parcel build Index.html",
     "test": "jest"
+    
   },
   "repository": {
     "type": "git",
@@ -20,6 +23,11 @@
   },
   "homepage": "https://github.com/Vrushabh8108/NamasteReactApp#readme",
   "devDependencies": {
-    "parcel": "^2.10.3"
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
