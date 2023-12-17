@@ -5,5 +5,12 @@ npm install react-dom
 npx parcel Index.html
 
 
+** Creating Scripts 
+Instead of npx parcel Index.html  use\
+ "start": "parcel Index.html",
+    "build":"parcel build Index.html"
+Inside package.json
+
+
 
 ## Important About Pakage-Lock.json
