@@ -1,0 +1,25 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "Namaste React by Akshay Saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vrushabh8108/NamasteReactApp.git"
+  },
+  "keywords": [
+    "namasteReact"
+  ],
+  "author": "Vrushabh Magdum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vrushabh8108/NamasteReactApp/issues"
+  },
+  "homepage": "https://github.com/Vrushabh8108/NamasteReactApp#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
